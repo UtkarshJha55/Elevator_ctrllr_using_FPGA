@@ -10,13 +10,17 @@ Here's the Mealy machine diagram for the project
 IMPLEMENTATION
 
 ![image](https://github.com/user-attachments/assets/50497165-34b9-481a-b9e5-5677526d760d)
+
 Initial stage of elevator
 
 ![image](https://github.com/user-attachments/assets/4860eb3e-db55-4a74-bf09-c69ed7ebe0dc)
+
 Giving input from inside the elevator as 2nd floor
 
 ![image](https://github.com/user-attachments/assets/029bd16f-c125-470e-ad2a-fcb89ebe35d7)
+
 Calling the elevatorr from outside to 3rd floor
 
 ![image](https://github.com/user-attachments/assets/0ee16334-8faa-48fa-8cfa-f010fe64c696)
+
 Emergency condition
